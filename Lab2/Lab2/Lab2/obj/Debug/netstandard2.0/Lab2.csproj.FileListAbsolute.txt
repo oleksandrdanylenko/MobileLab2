@@ -1,0 +1,11 @@
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.deps.json
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.dll
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\bin\Debug\netstandard2.0\Lab2.pdb
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.AssemblyInfo.cs
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.dll
+C:\Users\Sashka\Desktop\Lab2\MobileLab2\Lab2\Lab2\Lab2\obj\Debug\netstandard2.0\Lab2.pdb
